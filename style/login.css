@@ -1,0 +1,46 @@
+html {
+    background-color: blanchedalmond;
+}
+
+.head{
+    padding: 5px;
+    text-align: center;
+    background-color: coral;
+    height: 140px;
+    font-size: 30px;
+}
+
+.head p{
+    text-align: center;
+    color: rgb(13, 16, 209)
+}
+
+.form form{
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    left: 510px;
+    top: 200px;
+    background-color: cadetblue;
+}
+
+.form #username {
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 70px;
+}
+
+.form #password {
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 70px;
+}
+
+.form #submit {
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    left: 70px;
+}

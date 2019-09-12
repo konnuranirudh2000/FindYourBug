@@ -1,0 +1,92 @@
+html {
+    background-color: blanchedalmond;
+}
+
+.head{
+    padding: 5px;
+    text-align: center;
+    background-color: coral;
+    height: 140px;
+    font-size: 30px;
+}
+
+.head #exits{
+    position: absolute;
+    top: 100px;
+    left: 460px;
+    font-size: 20px;
+    color: rgb(13, 16, 209)
+}
+
+.head #empty{
+    position: absolute;
+    top: 100px;
+    left: 440px;
+    font-size: 20px;
+    color: rgb(13, 16, 209)
+}
+
+.form form{
+    width: 350px;
+    height: 460px;
+    position: absolute;
+    left: 510px;
+    top: 165px;
+    background-color: cadetblue;
+}
+
+.form #fName{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #lName{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #username{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #email{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #password{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #attacker{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #defender{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+.form #submit{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
